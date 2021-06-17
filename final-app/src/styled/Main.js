@@ -4,4 +4,4 @@ export const Main = styled.div`
     margin: 0;
     background-color: #f9f9f9;
     min-heigh: 100vh;
-`
+`;
