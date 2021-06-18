@@ -9,6 +9,10 @@ export default createGlobalStyle`
         font-weight: 300;
     }
 
+    bold {
+        font-weight: 700;
+    }
+
     h1, h2 {
         margin-bottom: 2rem;
     }
